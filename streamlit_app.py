@@ -13,7 +13,7 @@ import time
 st.markdown("""
 <style>
     body {
-        background-color: #F8FAFC;
+        background-color: #FFFFFF;
         color: #1E293B;
     }
     .main-header {
